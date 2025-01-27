@@ -80,7 +80,7 @@ const Register = () => {
               </div>
             </div>
             <button className='btn' onClick={handleSubmit}>Sign Up</button>
-            <p>Don't have and account </p>
+            <p>Don't have an account </p>
           </form>
         </div>
         <ToastContainer />
