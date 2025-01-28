@@ -8,6 +8,8 @@ export const registerfunction = async(data)=>{
 
 export const sentOtpFunction = async(data)=>{
     return await commonrequest("POST",`${BACKEND_URL}/user/sendotp`,data)
+
+    
 }
 
 // export const sentOtpFunction = async (data) => {
