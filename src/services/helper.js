@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://otp-task-backend-5.onrender.com"
+export const BACKEND_URL = "https://otp-task-backend-7.onrender.com/"
